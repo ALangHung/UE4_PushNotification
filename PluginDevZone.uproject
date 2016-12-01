@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{1C882B6F-EC4A-FEC2-6F85-E59B072705FE}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "PluginDevZone",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
